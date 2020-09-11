@@ -5,7 +5,7 @@ sudo su
 
 # upgrade and install packages
 dnf upgrade -y
-dnf install fish ufw neofetch gnome-tweaks util-linux-user htop inxi
+dnf install fish ufw neofetch gnome-tweaks util-linux-user htop inxi -y
 
 # configure ufw
 systemctl disable --now firewalld
