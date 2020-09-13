@@ -4,6 +4,6 @@
 
 # upgrade and install packages
 sudo dnf upgrade -y
-sudo dnf install fish ufw neofetch gnome-tweaks util-linux-user htop inxi -y
+sudo dnf install fish ufw neofetch gnome-tweaks util-linux-user htop inxi deluge flat-remix-theme -y
 
 sudo sh ./config.sh
