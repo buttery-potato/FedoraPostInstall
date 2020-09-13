@@ -6,4 +6,4 @@
 sudo dnf upgrade -y
 sudo dnf install fish ufw neofetch gnome-tweaks util-linux-user htop inxi -y
 
-sudo sh ./firewall_config.sh
+sudo sh ./config.sh
