@@ -9,3 +9,6 @@ sudo systemctl disable --now firewalld
 sudo ufw enable
 sudo ufw default deny incoming
 sudo ufw default allow outgoing
+# configure looks
+gsettings set org.gnome.desktop.interface icon-theme "Flat-Remix-Blue-Dark"
+gsettings set org.gnome.desktop.interface gtk-theme "Flat-Remix-GTK-Blue-Dark"
