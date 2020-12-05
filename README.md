@@ -1,4 +1,4 @@
 # Fedora-Post-Install-Script
-My personal post-install script and dash-to-panel config file
+Non-extensive post-install script
 
-To run: sudo sh ./init.sh
+To run: sudo ./workstation
