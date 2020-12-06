@@ -7,4 +7,3 @@ sudo systemctl disable --now firewalld
 sudo ufw enable
 sudo ufw default deny incoming
 sudo ufw default allow outgoing
-chsh -s /usr/bin/fish $USER
