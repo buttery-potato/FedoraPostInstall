@@ -1,3 +1,3 @@
-# Fedora-Post-Install-Script
+# Fedora Post Install Script
 
 To run: sudo sh ./workstation
